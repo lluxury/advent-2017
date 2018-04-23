@@ -1,6 +1,8 @@
 // http
 // 导入net库,HandleFunc库,打印,监听
 
+//go web 项目从入门到上容器化的很好例子
+
 curl -i http://127.0.0.1:8000/home
 
 go get github.com/rumyantseva/advent-2017/handlers
@@ -40,5 +42,5 @@ df02838 顺利
 
 2df110e 等实践
 
-大约过了一次,有机会再扩展一下
+//大约过了一次,有机会再扩展一下
 
