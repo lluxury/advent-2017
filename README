@@ -1,0 +1,44 @@
+// http
+// 导入net库,HandleFunc库,打印,监听
+
+curl -i http://127.0.0.1:8000/home
+
+go get github.com/rumyantseva/advent-2017/handlers
+// 引用的库要用get下载
+go run main.go
+
+
+76864ab 顺利
+
+65689d2 顺利
+
+1a61e79 
+// 需要位置
+ls /go/src/github.com/rumyantseva/advent-2017
+go get -u github.com/gorilla/mux
+
+a3e7f63 顺利
+
+a7446f5
+// 需要预置变量
+PORT=8000 go run main.go
+
+9096678 顺利
+make run  //后面的测试都需要
+
+eaa4ff2 顺利
+
+e73b996 顺利
+
+a4c3da4 顺利
+
+2962fe2 顺利
+
+bc8d73d 顺利
+
+df02838 顺利
+
+2df110e 等实践
+
+大约过了一次,有机会再扩展一下
+
